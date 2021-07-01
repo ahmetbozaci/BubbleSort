@@ -17,9 +17,9 @@ You have to install ruby on your computer for open this project.
 ## Authors
 
 👤 **AhmetBozaci**
-- Github: [@ahmetbozaci ](https://github.com/ahmetbozaci )
-- Twitter: [@ahmtbozaci](https://twitter.com/ahmtbozaci)
-- Linkedin: [linkedin](https://www.linkedin.com/in/ahmetbozaci/)
+- Github: [ahmetbozaci ](https://github.com/ahmetbozaci )
+- Twitter: [ahmtbozaci](https://twitter.com/ahmtbozaci)
+- Linkedin: [ahmetbozaci](https://www.linkedin.com/in/ahmetbozaci/)
 
 👤 **NataJenkins**
 - Github: [@NataJenkins](https://github.com/NataJenkins)
